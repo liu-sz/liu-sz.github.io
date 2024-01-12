@@ -11,7 +11,8 @@ layout: default
   
   {%- if site.analog_posts.size > 0 -%}
     <ul class="post-list">
-      {%- for post in site.analog_posts -%}
+      {% assign posts = site.analog_posts | sort: 'number' %}
+      {%- for post in posts -%}
       <li>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
