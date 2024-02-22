@@ -41,6 +41,7 @@ The following is a partial list of courses I have taken at Carnegie Mellon Unive
 - [15-112 Fundamentals of Programming and Computer Science](https://www.kosbie.net/cmu/fall-20/15-112/index.html)
 
 ### Humanities and Social Sciences
+- 49-723 The Pricing of Products and Services
 - 67-279 Introduction to Geographic Information Systems
 - 76-106 Writing about Literature, Art and Culture
 - 76-107 Writing about Data
